@@ -1,5 +1,5 @@
 require 'pry'
-require_relative 'print_bug'
+# require_relative 'print_bug'
 
 
 def consolidate_cart(cart)
